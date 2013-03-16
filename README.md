@@ -3,10 +3,10 @@ ardrone-controller
 
 A collection of node.js apps using the `ar-drone` package controlling an AR.Drone and sending data to a real-time dashboard.
 
-Installation
+Requirements
 ------------
 
-Run `npm install ar-drone`.
+You'll need to run `npm install ar-drone` to install the `ar-drone` package.
 
 More info
 ---------
